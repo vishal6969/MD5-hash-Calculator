@@ -28,3 +28,10 @@ The fundamental concept of hashing is to take a text or string as an input and p
 * Scramble and shuffle input bits.
 * Combine data packets to produce output.
 
+# Purpose of this project
+The project implements very famous MD5 algorithm. MD5 was designed by *Ronald Rivest.* The soul purpose of this project is to implement the MD5 algorithm in C language. 
+
+The program takes a string as an input, applies all the processing and calculation on the input and produces an output which is also called the message digest. So the final output of the program is a message digest.
+
+The program utilises only basic C functions like input/output and totally avoids any use of any inbuilt functions other than that.
+
